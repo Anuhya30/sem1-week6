@@ -1,0 +1,38 @@
+/* Base styles for all buttons */
+.button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  /* Custom styles for different types of buttons */
+  .primary {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .primary:hover {
+    background-color: #45a049;
+  }
+  
+  .secondary {
+    background-color: #2196f3;
+    color: white;
+  }
+  
+  .secondary:hover {
+    background-color: #1976d2;
+  }
+  
+  .danger {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .danger:hover {
+    background-color: #d32f2f;
+  }
+  

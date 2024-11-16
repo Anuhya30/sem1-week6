@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+}
+
+.main-content {
+  margin-left: 220px; 
+  padding: 20px;
+  flex: 1;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  color: #333;
+}
+

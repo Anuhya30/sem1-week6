@@ -1,0 +1,10 @@
+.App {
+  text-align: center;  /* Center the content */
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #61dafb;  /* React blue */
+}

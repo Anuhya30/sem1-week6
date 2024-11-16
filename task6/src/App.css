@@ -1,0 +1,23 @@
+.App {
+  text-align: center;  /* Center the content in the app */
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.styled-div {
+  color: #333;  /* Text color */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Shadow around the div */
+}
+
+h1 {
+  font-size: 2rem;
+  color: #61dafb;  /* React blue */
+}
+
+p {
+  font-size: 1rem;
+  color: #555;
+}
+
+
+
